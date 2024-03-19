@@ -1,4 +1,3 @@
-Sure, here's a sample README.md file content for your e-commerce product admin panel with CRUD functionality using MySQL and PHP, along with a user site for regular users:
 
 ---
 
